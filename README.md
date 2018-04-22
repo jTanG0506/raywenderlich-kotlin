@@ -3,7 +3,7 @@
 ## :question: About
 This is a collection of small code projects I created whilst learning Kotlin via the [video series on RayWenderlich](https://videos.raywenderlich.com/courses/128-programming-in-kotlin/)
 
-## :blue_book: Challenges Checklist
+## :blue_book: Course Content
 ### Core Concepts
 - [X] Using IntelliJ
 - [X] Kotlin Basics
