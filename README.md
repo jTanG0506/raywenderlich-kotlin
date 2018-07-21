@@ -33,8 +33,8 @@ This is a collection of small code projects I created whilst learning Kotlin via
 
 ### Collections
 - [X] Arrays
-- [ ] Challenge: Arrays
-- [ ] Lists
+- [X] Challenge: Arrays
+- [X] Lists
 - [ ] Challenge: Lists
 - [ ] Maps
 - [ ] Challenge: Maps
