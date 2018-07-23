@@ -35,11 +35,11 @@ This is a collection of small code projects I created whilst learning Kotlin via
 - [X] Arrays
 - [X] Challenge: Arrays
 - [X] Lists
-- [ ] Challenge: Lists
-- [ ] Maps
-- [ ] Challenge: Maps
-- [ ] Which Collection To Use?
-- [ ] Mutable vs Immutable
+- [X] Challenge: Lists
+- [X] Maps
+- [X] Challenge: Maps
+- [X] Which Collection To Use?
+- [X] Mutable vs Immutable
 
 ### Lambdas
 - [ ] Higher-Order VS Lambdas
